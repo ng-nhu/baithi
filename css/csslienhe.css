@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0;font-size: 18px	
+}
+.banner{
+	width: 100%;min-height: 400px;position: relative
+}
+.caption{
+	width: 400px;text-align: center;position: absolute;right: 20%;top: 10%;font-size: 40px;
+}
+.caption h1{
+	color: #565553;margin-bottom: -40px
+}
+#contact{
+  width: 100%;
+  min-height: 600px;
+  background-image: url("../../../ID-03-Video/ID-03-Video/css/Banner2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+.shadow{
+	width: 100%;min-height: 300px;border: 1px solid darkgray;box-shadow: 5px 5px 5px gray;padding: 30px;
+}
+.form-control{
+	padding: 8px;width: 100%;margin-bottom: 10px;
+}
